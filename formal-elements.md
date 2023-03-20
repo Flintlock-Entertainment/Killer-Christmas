@@ -44,10 +44,10 @@
 *	סיום כל השלבים
   
 הלחצנים:
-* wasd : תנועה
-* lmb: התקפה
-* shift: ריצה
-* c: התכופפות
+  * תנועה: WASD או חצים.
+  * התקפה: lmb
+  * התכופפות: c 
+  * ריצה: shift
 
 ### 4. חוקים
 
@@ -102,7 +102,8 @@
 ## סקר שוק
 
 
-[Carrion]<br>(https://store.steampowered.com/app/953490/CARRION/)<br>
+[Carrion](https://store.steampowered.com/app/953490/CARRION/)
+  
 [<img src= "https://cdn.cloudflare.steamstatic.com/steam/apps/953490/ss_5f53d9ba6f95568c6ce39dad483a0e0d5a5dd457.600x338.jpg?t=1667025245" />](img)
 
  משחק בו אתה משחק בתור מפלצת המנסה לברוח ממתחם 
