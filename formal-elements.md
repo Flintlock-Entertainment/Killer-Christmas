@@ -101,7 +101,7 @@ c: התכופפות
 ## סקר שוק
 
 
-[Carrion]<br>(https://store.steampowered.com/app/953490/CARRION/)
+[Carrion]<br>(https://store.steampowered.com/app/953490/CARRION/)<br>
 [<img src= "https://cdn.cloudflare.steamstatic.com/steam/apps/953490/ss_5f53d9ba6f95568c6ce39dad483a0e0d5a5dd457.600x338.jpg?t=1667025245" />](img)
 <br>Carrion  הוא משחק בו אתה משחק בתור מפלצת המנסה לברוח ממתחם 
 היא עושה זאת על ידי ניווט במתחם בין חוקרים ושומרים.
